@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="hero-overlay"></div>
       <div className="container h-100 d-flex align-items-center justify-content-center">
         <div className="hero-content animate-up">
-          <h1 className="hero-title">Urgence & Dépannage</h1>
+          <h1 className="hero-title">Ambulance & Dépannage</h1>
           <p className="hero-subtitle">
             Ambulance médicalisée et Remorquage auto 24/7 partout au Maroc. 
             <br/>Intervention rapide et professionnelle.
