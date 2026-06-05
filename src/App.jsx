@@ -1,20 +1,19 @@
 import React from 'react';
-import CustomNavbar from './components/Navbar';
-import Hero from './components/Hero';
-import Services from './components/Services';
-import Agences from './components/Agences';
-import Footer from './components/Footer';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Home from './pages/Home';
+import AmbulancePage from './pages/Ambulance';
+import DepannagePage from './pages/Depannage';
 import './index.css';
 
 function App() {
   return (
-    <>
-      <CustomNavbar />
-      <Hero />
-      <Services />
-      <Agences />
-      <Footer />
-    </>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/ambulance" element={<AmbulancePage />} />
+        <Route path="/depannage" element={<DepannagePage />} />
+      </Routes>
+    </Router>
   );
 }
 

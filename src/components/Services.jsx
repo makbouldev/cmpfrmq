@@ -14,7 +14,7 @@ const Services = () => {
         </div>
         
         <Row className="g-4">
-          <Col md={6}>
+          <Col md={6} id="ambulance-service">
             <div className="service-card animate-up delay-2">
               <div className="service-img-container">
                 <img src={imgAmbulance} alt="Service Ambulance" className="w-100 service-img" />
@@ -36,7 +36,7 @@ const Services = () => {
             </div>
           </Col>
           
-          <Col md={6}>
+          <Col md={6} id="depannage-service">
             <div className="service-card animate-up delay-3">
               <div className="service-img-container">
                 <img src={imgTowing} alt="Service Remorquage" className="w-100 service-img" />
