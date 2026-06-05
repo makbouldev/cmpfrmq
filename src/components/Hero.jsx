@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="hero-overlay"></div>
       <div className="container h-100 d-flex align-items-center justify-content-center">
         <div className="hero-content animate-up">
-          <h1 className="hero-title">CMPF ASSISTANCE</h1>
+          <h1 className="hero-title">CMPF : Toujours à vos côtés</h1>
           <p className="hero-subtitle">
             Secours médical & Assistance routière d'urgence 24h/7j partout au Maroc. 
             <br/>Intervention rapide, sécurisée et professionnelle.
