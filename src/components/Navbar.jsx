@@ -22,8 +22,8 @@ const CustomNavbar = () => {
             <Nav.Link as={Link} to="/depannage" className="nav-btn-depannage ms-lg-2 mt-2 mt-lg-0">
               Dépannage
             </Nav.Link>
-            <Nav.Link href="tel:0666095792" className="nav-phone ms-lg-3 mt-2 mt-lg-0">
-              06 66 09 57 92
+            <Nav.Link href="tel:0661502763" className="nav-phone ms-lg-3 mt-2 mt-lg-0">
+              06 61 50 27 63
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>

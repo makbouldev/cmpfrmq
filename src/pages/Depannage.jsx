@@ -32,14 +32,14 @@ const DepannagePage = () => {
           
           <div className="phone-display-box animate-up delay-2 mx-auto mb-4 p-3 rounded-4 shadow-lg" style={{ maxWidth: '440px', background: 'rgba(255, 255, 255, 0.1)', backdropFilter: 'blur(12px)', border: '1px solid rgba(255, 255, 255, 0.15)' }}>
             <span className="text-uppercase text-light-50 fw-bold tracking-wider small d-block mb-1">STANDARD ASSISTANCE 24/7</span>
-            <span className="display-6 fw-black text-white d-block">06 66 09 57 92</span>
+            <span className="display-6 fw-black text-white d-block">06 61 50 27 63</span>
           </div>
 
           <div className="d-flex flex-wrap justify-content-center gap-3 animate-up delay-3">
-            <a href="tel:0666095792" className="btn btn-info btn-lg rounded-pill px-4 py-3 fw-bold shadow-lg d-flex align-items-center gap-2" style={{ backgroundColor: 'var(--accent-cyan)', borderColor: 'var(--accent-cyan)', color: 'var(--primary-color)' }}>
+            <a href="tel:0661502763" className="btn btn-info btn-lg rounded-pill px-4 py-3 fw-bold shadow-lg d-flex align-items-center gap-2" style={{ backgroundColor: 'var(--accent-cyan)', borderColor: 'var(--accent-cyan)', color: 'var(--primary-color)' }}>
               <FaPhoneAlt /> Appel Direct
             </a>
-            <a href="https://wa.me/212666095792" target="_blank" rel="noopener noreferrer" className="btn btn-success btn-lg rounded-pill px-4 py-3 fw-bold shadow-lg d-flex align-items-center gap-2" style={{ backgroundColor: '#25D366', borderColor: '#25D366' }}>
+            <a href="https://wa.me/212661502763" target="_blank" rel="noopener noreferrer" className="btn btn-success btn-lg rounded-pill px-4 py-3 fw-bold shadow-lg d-flex align-items-center gap-2" style={{ backgroundColor: '#25D366', borderColor: '#25D366' }}>
               <FaWhatsapp size={22} /> Assistance WhatsApp
             </a>
           </div>
@@ -153,11 +153,11 @@ const DepannagePage = () => {
             Contactez notre standard dépannage disponible 24h/24. Une dépanneuse est immédiatement envoyée vers votre position.
           </p>
           <a 
-            href="tel:0666095792" 
+            href="tel:0661502763" 
             className="btn btn-info btn-lg rounded-pill px-5 py-3 fw-bold fs-4 shadow-lg text-dark"
             style={{ transition: 'all 0.3s', backgroundColor: 'var(--accent-cyan)', borderColor: 'var(--accent-cyan)' }}
           >
-            <FaPhoneAlt className="me-3 animate-pulse" /> 06 66 09 57 92
+            <FaPhoneAlt className="me-3 animate-pulse" /> 06 61 50 27 63
           </a>
         </Container>
       </section>

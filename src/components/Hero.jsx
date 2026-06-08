@@ -12,8 +12,8 @@ const Hero = () => {
             Secours médical & Assistance routière d'urgence 24h/7j partout au Maroc. 
             <br/>Intervention rapide, sécurisée et professionnelle.
           </p>
-          <a href="tel:0666095792" className="phone-badge">
-            <FaPhoneAlt className="icon-pulse" /> 06 66 09 57 92
+          <a href="tel:0661502763" className="phone-badge">
+            <FaPhoneAlt className="icon-pulse" /> 06 61 50 27 63
           </a>
         </div>
       </div>

@@ -27,7 +27,7 @@ const Footer = () => {
             <ul className="list-unstyled">
               <li className="mb-2">
                 <FaPhoneAlt className="me-2 text-danger" /> 
-                <a href="tel:0666095792" className="text-white text-decoration-none fw-bold">06 66 09 57 92</a>
+                <a href="tel:0661502763" className="text-white text-decoration-none fw-bold">06 61 50 27 63</a>
               </li>
               <li className="mb-2">
                 <FaEnvelope className="me-2 text-info" /> 
